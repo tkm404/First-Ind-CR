@@ -15,7 +15,10 @@
     align-items: center;
     display:block
 }
-
+.sidebar {
+    width: 20%;
+    float: left;
+}
 .about {
     background-image: linear-gradient(to bottom, rgb(145, 77, 194),green);
     vertical-align: top;
@@ -28,6 +31,10 @@
     margin-right: auto;
     margin-bottom: auto;
     box-sizing: border-box;
+}
+
+#wrap {
+    text-align: right;
 }
 
 .music {
