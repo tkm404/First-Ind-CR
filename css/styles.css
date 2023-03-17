@@ -33,9 +33,9 @@
 .middle-pic {
     float: left;
     vertical-align: top;
-    width: 400px;
-    height: auto;
+    transform: scale(50%, 50%);
     display: inline-block;
+    box-sizing: border-box;
 }
 
 .column {
