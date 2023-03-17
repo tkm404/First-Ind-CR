@@ -1,3 +1,7 @@
+.tip-top {
+    height: 275px;
+    background-image: linear-gradient(to bottom, yellow,rgb(145, 77, 194));
+}
 .top-picture {
     width: 275px;
     margin: auto;
@@ -13,7 +17,7 @@
 }
 
 .about {
-    background-image: linear-gradient(to bottom, rgb(91, 26, 138),green);
+    background-image: linear-gradient(to bottom, rgb(145, 77, 194),green);
     vertical-align: top;
     align-items: left;
     text-align: left;
