@@ -3,6 +3,14 @@
     align-items: center;
     display:block
 }
+.banner2 {
+    border: 2px solid black
+    padding 10px;
+    display: block;
+    margin: auto;
+    width: 25%;
+    box-sizing: border-box;
+}
 .column {
     width: 300px;
 }
