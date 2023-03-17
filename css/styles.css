@@ -26,15 +26,15 @@
     display: inline-block;
     margin-top: 0;
     margin-bottom: auto;
-    margin-left: auto;
     box-sizing: border-box;
 }
 
 .middle-pic {
-    float: left;
+    float: right;
     vertical-align: top;
     transform: scale(50%, 50%);
     display: inline-block;
+    margin-right:auto;
     box-sizing: border-box;
 }
 
