@@ -1,3 +1,8 @@
+.banner {
+    text-align: center;
+    align-items: center;
+    display:block
+}
 .column {
     width: 300px;
 }
