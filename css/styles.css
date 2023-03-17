@@ -1,5 +1,5 @@
 .back {
-    background-color: rgb(199, 211, 205);
+    background-color: rgb(145, 77, 205);
 }
 .tip-top {
     height: 275px;
@@ -13,10 +13,11 @@
 }
 
 .banner {
+    background-color: yellow;
     border-bottom: 2px solid black;
     text-align: center;
     align-items: center;
-    display:block
+    display:block;
 }
 .sidebar {
     width: 20%;
@@ -27,7 +28,7 @@
     vertical-align: top;
     align-items: left;
     text-align: left;
-    border: 2px solid gray;
+    border: 2px solid darkgray;
     padding: 20px;
     display: inline-block;
     margin-top: 0;
@@ -44,7 +45,7 @@
     background-image: linear-gradient(to bottom, green, lightgray);
     vertical-align: top;
     text-align: left;
-    border: 2px solid gray;
+    border: 2px solid darkgray;
     padding: 20px;
     display: inline-block;
     box-sizing: border-box;
@@ -54,7 +55,7 @@
     background-image: linear-gradient(to bottom, lightgray, rgb(204, 154, 45));
     vertical-align: top;
     text-align: left;
-    border: 2px solid gray;
+    border: 2px solid darkgray;
     padding: 20px;
     display: inline-block;
     box-sizing: border-box;
@@ -78,6 +79,7 @@
 }
 
 .banner2 {
+    background-color:ivory;
     border: 5px solid black;
     padding: 10px;
     display: block;
