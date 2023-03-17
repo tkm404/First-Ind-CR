@@ -13,6 +13,7 @@
 }
 
 .about {
+    background-image: linear-gradient(to bottom, rgb(91, 26, 138),green);
     vertical-align: top;
     align-items: left;
     text-align: left;
@@ -26,6 +27,7 @@
 }
 
 .music {
+    background-image: linear-gradient(to bottom, green, lightgray);
     vertical-align: top;
     text-align: left;
     border: 2px solid gray;
@@ -34,6 +36,15 @@
     box-sizing: border-box;
 }
 
+.right-space {
+    background-image: linear-gradient(to bottom, lightgray, rgb(204, 154, 45));
+    vertical-align: top;
+    text-align: left;
+    border: 2px solid gray;
+    padding: 20px;
+    display: inline-block;
+    box-sizing: border-box;
+}
 .middle-pic {
     width: 275px;
     margin: auto;
