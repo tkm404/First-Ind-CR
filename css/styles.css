@@ -19,27 +19,29 @@
 }
 
 .music {
-    align-items: right;
+    vertical-align: top;
+    /* align-items: right; */
     text-align: left;
     border: 2px solid gray;
     padding: 20px;
     display: inline-block;
-    margin-top: 0;
+    /* margin-top: 0;
     margin-right: 0;
-    margin-bottom: auto;
+    margin-bottom: auto; */
     box-sizing: border-box;
 }
 
-/*.middle-pic {
-    transform: scale(35%, 35%);
-    display: inline-block;
-    margin-top: 0;
+.middle-pic {
+    width: 275px;
+    margin: auto;
+    /* transform: scale(35%, 35%); */
+    /* margin-top: 0;
     margin-right:auto;
     margin-bottom: auto;
-    margin-left: auto;
-    box-sizing: border-box;
+    margin-left: auto; */
+    /* box-sizing: border-box; */
 }
-*/
+
 .column {
     width: 300px;
     height: 500px;
