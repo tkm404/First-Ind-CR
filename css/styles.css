@@ -1,5 +1,6 @@
 .background {
     background-image: url(fist-ind-cr/img/creek.JPG);
+    height: max-content;
 }
 .tip-top {
     height: 275px;
