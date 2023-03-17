@@ -13,10 +13,10 @@
     box-sizing: border-box;
 }
 .about {
-    float: right;
+    float: left;
 }
 .music {
-    float: left;
+    float: right;
 }
 .column {
     width: 300px;
