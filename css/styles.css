@@ -1,3 +1,6 @@
+.background {
+    background-image: url(fist-ind-cr/img/creek.JPG);
+}
 .tip-top {
     height: 275px;
     background-image: linear-gradient(to bottom, yellow,rgb(145, 77, 194));
